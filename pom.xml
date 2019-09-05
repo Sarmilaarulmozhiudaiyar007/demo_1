@@ -11,7 +11,7 @@
 		<junit.version>4.12</junit.version>
 		<cucumber.version>4.0.0</cucumber.version>
 		<cucumber.pro.version>2.0.4</cucumber.pro.version>
-		<maven.compiler.version>1.5</maven.compiler.version>
+		<maven.compiler.version>2.3.2</maven.compiler.version>
 	</properties>
 
 	<dependencies>
